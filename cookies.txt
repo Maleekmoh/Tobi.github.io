@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.naijaloaded.com.ng	TRUE	/	FALSE	1999999999	__cfduid	da84975b270cdf63d666464ff16923ec31587499084
+www.naijaloaded.com.ng	TRUE	/	FALSE	1999999999	SameSite	Lax
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	df014ec70a42dda2ac1e5a6d895e3ac161587499106
+ajax.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
